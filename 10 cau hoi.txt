@@ -1,0 +1,60 @@
+Câu 1:
+Con sông nào dài nhất bán đảo Đông Dương
+A.Sông Hồng
+B.Sông Thầy
+C.Mê Kông
+D.Sông Ấn
+Câu 2:
+Tứ diện có bao nhiêu đường chéo
+A.8
+B.4
+C.2
+D.Không có
+Câu 3:
+Rắn có mấy lá phổi
+A.2
+B.4
+C.1
+D.3
+Câu 4:
+Truyện Kiều có bao nhiêu câu thơ
+A.3425
+B.3542
+C.3323
+D.3254
+Câu 5:
+Hai điểm duy nhất của địa cầu không quay gọi là gì
+A.Địa cực
+B.Trục
+C.Không có 
+D.Chỉ có 1 điểm
+Câu 6:
+Loài trăn thường ngủ ở đâu
+A.Trên nệm
+B.Trên cây
+C.Trên đá
+D.Trong hang
+Câu 7:
+Nguyên nhân nào gây ra hiện tượng sóng thần ở biển
+A.Gió lớn
+B.Bão
+C.Mưa
+D.Động đất
+Câu 8:
+Loài lưỡng cư nào thường xuất hiện và kêu to sau cơn mưa
+A.Ếch
+B.Cóc
+C.Nhái
+D.Ễnh ương
+Câu 9:
+Châu lục nào có diện tích lớn nhất
+A.Châu Á
+B.Châu Mỹ
+C.Châu Phi
+D.Châu Âu
+Câu 10:
+Công thức tính diện tích hình chữ nhật
+A.a+b
+B.(a+b)x2
+C.a x b
+D.a-b
